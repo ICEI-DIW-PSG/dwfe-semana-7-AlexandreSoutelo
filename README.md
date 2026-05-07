@@ -4,13 +4,13 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Alexandre Soutelo Vilela
+- Matricula: 917073
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
-
+![print do console](/public/print.png)
+![print no celular](/public/printCel.png)
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
